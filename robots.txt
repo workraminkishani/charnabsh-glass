@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /cart
+Disallow: /checkout
+Disallow: /order-success
+Disallow: /wishlist
+
+Host: https://workraminkishani.github.io/charnabsh-glass
+Sitemap: https://workraminkishani.github.io/charnabsh-glass/sitemap.xml
